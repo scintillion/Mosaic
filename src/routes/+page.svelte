@@ -10,6 +10,7 @@ InitClient ();
 <a href="/loleditor/">ListOfLists Editor</a>
 <a href="/apitesting/">API Testing</a>
 <a href="/vhelsing">VHelsing</a>
+<a href="/dbeditor/">Database Editor</a>
 
 <style lang="scss">
 	a {
